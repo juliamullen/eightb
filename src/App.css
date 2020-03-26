@@ -1,0 +1,12 @@
+.App {
+  display:grid;
+  grid-template-columns: 5fr 3fr;
+  grid-template-rows: 40vh 40vh;
+  gap:10vmin;
+  margin:5vmin;
+}
+
+div {
+  border:1px rgba(255, 0, 0, .2) solid;
+  border-radius:20px;
+}
